@@ -3,7 +3,7 @@ author: "Ted Laderas"
 date: "March 16, 2017"
 output: slidy_presentation
 title: "The Magic of Markdown"
-
+---
 
 
 
