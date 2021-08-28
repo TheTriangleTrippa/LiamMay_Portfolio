@@ -1,6 +1,8 @@
 ## Welcome to my Portfolio.
-About myself ...... ![image](src)
-###There are two catagories of content, feel free to look through it all.
+About myself ......set margins  (set offset)![image](src)
+
+### There are two catagories of content, feel free to look through it all.
+
 Navigation between Computer Science work, and Design work can be Easily found via links below:
 # Todo: Button 1: Computer Stuff , Button 2: Design
 
