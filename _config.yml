@@ -1,16 +1,22 @@
 
 title: Liam May portfolio
-locale: en_NZ
-logo: # filename of a logo image that has been placed into your images directory
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Liam
-  avatar: bio-photo.jpg
-  bio: "This is a portfolio of my designa nd computer science work"
-  email: n/a
-  # Do not include the @ symbol in your Twitter username
-  
-  linkedin: #username
-  
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
