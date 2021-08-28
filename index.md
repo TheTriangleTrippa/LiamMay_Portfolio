@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TheTriangleTrippa/LiamMay_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my Portfolio.
+About myself ...... ![image](src)
+###There are two catagories of content, feel free to look through it all.
+Navigation between Computer Science work, and Design work can be Easily found via links below:
+# Todo: Button 1: Computer Stuff , Button 2: Design
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -27,10 +29,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheTriangleTrippa/LiamMay_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
