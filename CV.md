@@ -1,1 +1,7 @@
+---
+title: "The Magic of Markdown"
+author: "Ted Laderas"
+date: "March 16, 2017"
+output: slidy_presentation
+---
 ##add cv here
