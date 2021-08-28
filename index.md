@@ -1,7 +1,7 @@
 
 
 ## Welcome to my Portfolio.
-About myself ......set margins  (set offset)![Image](https://github.com/TheTriangleTrippa/LiamMay_Portfolio/blob/1e9924828b60f26390463eca8379b6ac95353deb/random%20dragon%20dodle%20BG%20low.jpg)
+About myself ......set margins  (set offset) ![Image](https://github.com/TheTriangleTrippa/LiamMay_Portfolio/blob/1e9924828b60f26390463eca8379b6ac95353deb/random%20dragon%20dodle%20BG%20low.jpg)
 
 ### There are two catagories of content, feel free to look through it all.
 
